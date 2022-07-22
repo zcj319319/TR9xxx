@@ -1,0 +1,15 @@
+fd = open(r'D:\projects\DIQUN\diqun_fpga\write\memory_dump_data.txt')
+all_data = [x.strip() for x in fd]
+fd.close()
+
+print (len(all_data))
+fo = open('mem.dat', 'w')
+for i in range(0,2):
+    for j in range(0,2048):
+        for k in range(0,8):
+            dout = ''
+            for m in range(0,4):
+                idx = i*65536+j*4+k*8192+m
+                dout = all_data[idx]+dout
+        fo.write(dout+'\n')
+fo.close()

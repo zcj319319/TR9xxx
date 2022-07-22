@@ -1,0 +1,23 @@
+Err_Counter_Val=1A BB BB F6
+Err_Counter_Val=87 16 B7 22
+Err_Counter_Val=E8 34 A3 8F
+Err_Counter_Val=D8 B8 2D C5
+Err_Counter_Val=0C C5 36 E2
+dll0_dac_bin=84 dll0_dac_the=3F dll1_dac_bin=6F dll1_dac_the=0F
+dll0_dac_bin=84 dll0_dac_the=6F dll1_dac_bin=6F dll1_dac_the=1F
+dll0_dac_bin=84 dll0_dac_the=6F dll1_dac_bin=6F dll1_dac_the=1F
+dll0_dac_bin=84 dll0_dac_the=5F dll1_dac_bin=6F dll1_dac_the=1F
+dll0_dac_bin=84 dll0_dac_the=4F dll1_dac_bin=6E dll1_dac_the=FF
+slicer0_cali_result=6C
+slicer1_cali_result=9C
+slicer2_cali_result=68
+slicer3_cali_result=78
+slicer4_cali_result=80
+slicer5_cali_result=74
+slicer6_cali_result=5C
+slicer7_cali_result=54
+cdr_i_accum_status=2D 40 43 02    cdr_f_accum_status=2D 40 43 02
+cdr_i_accum_status=60 00 09 8C    cdr_f_accum_status=6B FC 89 AA
+cdr_i_accum_status=60 00 18 FC    cdr_f_accum_status=60 00 18 FC
+cdr_i_accum_status=5F FF E5 9E    cdr_f_accum_status=27 59 18 C4
+cdr_i_accum_status=5F FF E4 E4    cdr_f_accum_status=2D 70 8E 1C
